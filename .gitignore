@@ -1,5 +1,4 @@
 .venv
-MidtermExam/ModelWeight/best_model.pt
 MidtermExam/Electronics_5.json.zip
 MidtermExam/Electronics_5.json
-MidtermExam/ModelWeight/distilbert_lstm_model_complete.pt
+MidtermExam/ModelWeight/
