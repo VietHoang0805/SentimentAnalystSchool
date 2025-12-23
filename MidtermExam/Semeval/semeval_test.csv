@@ -1,4 +1,4 @@
-reviewText,Sentiment,AspectTerms
+reviewText,Sentiment,AspectTerm
 It's a tiny place so if you get there before 8pm on a weekend (Thurs?Sun) you will find it easier to get a table or a seat at the sushi bar.,neutral,RESTAURANT-MISCELLANEOUS
 "Overall, it is a fantastic laptop.",positive,LAPTOP-GENERAL
 "Once in a long while that doesn't work; in that case I turn the computer off, then on again, and sign in -- problem solved.",neutral,LAPTOP-USABILITY

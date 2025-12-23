@@ -1,4 +1,4 @@
-reviewText,Sentiment,AspectTerms
+reviewText,Sentiment,AspectTerm
 "The Macbook arrived in a nice twin packing and sealed in the box, all the functions works great.",positive,LAPTOP-MISCELLANEOUS
 We didn't look like the other patrons in there so unfortunately I think that may have been part of the problem.,negative,RESTAURANT-MISCELLANEOUS
 "I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it.",negative,RESTAURANT-PRICES
